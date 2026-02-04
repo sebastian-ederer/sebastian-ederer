@@ -1,8 +1,6 @@
-<img src="assets/avatar.png" align="right" width="100" height="100" />
-<br />
-<br />
-
 # About me
+
+<img src="assets/avatar.png" align="right" width="100" height="100" />
 
 Hi, I'm Sebastian — a developer from Germany. When I'm not writing code, I'm probably playing guitar. I believe great software, like great music, is all about finding the right harmony between tools and intent.
 
