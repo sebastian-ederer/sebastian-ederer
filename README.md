@@ -6,8 +6,6 @@ Hi, I'm Sebastian — a developer from Germany. When I'm not writing code, I'm p
 
 Reach out to me: <https://www.viridianblue.com/contact>
 
-CheckMyGit: <https://checkmygit.com/sebastian-ederer>
-
 ## 🛠️ Languages and tools
 
 <p>
